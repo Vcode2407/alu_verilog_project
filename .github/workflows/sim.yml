@@ -1,0 +1,16 @@
+name: Run ALU Simulation
+
+on:
+  push:
+    paths: ["*.v", "*.sv", "*.vh", "Makefile"]
+  pull_request:
+
+jobs:
+  simulate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Icarus Verilog
+        run: sudo apt-get install iverilog
+      - name: Run Simulation
+        run: make

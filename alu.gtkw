@@ -1,0 +1,19 @@
+[*]
+[*] GTKWave Analyzer v3.3.90 (w)1999-2018 BSI
+[*] Sun Jun 29 19:04:37 2025
+[*]
+[dumpfile] "C:\Users\vinay\Downloads\alu_verilog_project\alu.vcd"
+[dumpfile_mtime] "Sun Jun 29 18:40:43 2025"
+[dumpfile_size] 2944
+[savefile] "C:\Users\vinay\Downloads\alu.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-17.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ALU_tb.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+[pattern_trace] 1
+[pattern_trace] 0
